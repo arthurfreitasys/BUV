@@ -27,8 +27,8 @@ Esta ferramenta deve ser usada **apenas para baixar conteúdo seu, de domínio p
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/arthurfreitasys/BUV
+cd BUV
 python -m pip install -U "yt-dlp[default]"
 ```
 
